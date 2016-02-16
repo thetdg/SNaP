@@ -1,3 +1,3 @@
-# SNaP
-## Signals, Networks and Python
-### Tanmoy Dasgupta
+## SNaP
+### Signals, Networks and Python
+#### Tanmoy Dasgupta
